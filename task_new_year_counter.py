@@ -1,5 +1,3 @@
-#!/usr/bin/python3.5
-
 import datetime
 
 def get_days_to_new_year():
